@@ -14,8 +14,8 @@ let clothes = {
   size: 'small',
 };
 let user = {
-  username: 'Nour',
-  password: '1234',
+  username: 'fakeUser',
+  password: '0000',
   role: 'admin',
 };
 
